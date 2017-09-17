@@ -16,7 +16,7 @@ And markdown syntax
  3. Links
     * [GitHub](https://github.com/) or by a reference [GitHub1][1]
  4. Images
-    * ![I love plants](https://unsplash.com/search/photos/plant?photo=hYAmjIvLALE)
+   ![I love plants](https://unsplash.com/search/photos/plant?photo=hYAmjIvLALE)
  5. source code
     * incline code within a sentence: `code`
     * code blocks:
